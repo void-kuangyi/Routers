@@ -1,0 +1,27 @@
+[GENERATED OBJECT FILE]
+b__test_routers.o
+[PROJECT FILES]
+/Users/Jasmine/Desktop/2310/2310assignment/assignment2/Routers_template/routers.gpr
+20150927060618
+[BOUND OBJECT FILES]
+/Users/Jasmine/Desktop/2310/2310assignment/assignment2/Routers_template/Objects/exceptions.o
+/Users/Jasmine/Desktop/2310/2310assignment/assignment2/Routers_template/Objects/generic_router_links.o
+/Users/Jasmine/Desktop/2310/2310assignment/assignment2/Routers_template/Objects/id_dispenser.o
+/Users/Jasmine/Desktop/2310/2310assignment/assignment2/Routers_template/Objects/topologies.o
+/Users/Jasmine/Desktop/2310/2310assignment/assignment2/Routers_template/Objects/routers_configuration_structures.o
+/Users/Jasmine/Desktop/2310/2310assignment/assignment2/Routers_template/Objects/generic_routers_configuration.o
+/Users/Jasmine/Desktop/2310/2310assignment/assignment2/Routers_template/Objects/generic_message_structures.o
+/Users/Jasmine/Desktop/2310/2310assignment/assignment2/Routers_template/Objects/generic_router.o
+/Users/Jasmine/Desktop/2310/2310assignment/assignment2/Routers_template/Objects/generic_routers.o
+/Users/Jasmine/Desktop/2310/2310assignment/assignment2/Routers_template/Objects/test_routers.o
+[GENERATED SOURCE FILES]
+b__test_routers.ads
+b__test_routers.adb
+b__test_routers.ali
+[RESULTING OPTIONS]
+-L/Users/Jasmine/Desktop/2310/2310assignment/assignment2/Routers_template/Objects/
+-L/Users/Jasmine/Desktop/2310/2310assignment/assignment2/Routers_template/Objects/
+-L/users/jasmine/downloads/x86_64-darwin/adagpl-2015/gnatgpl/gnat-gpl-2015-x86_64-darwin-bin/lib/gcc/x86_64-apple-darwin13.4.0/4.9.3/adalib/
+-static
+/users/jasmine/downloads/x86_64-darwin/adagpl-2015/gnatgpl/gnat-gpl-2015-x86_64-darwin-bin/lib/gcc/x86_64-apple-darwin13.4.0/4.9.3/adalib/libgnarl.a
+/users/jasmine/downloads/x86_64-darwin/adagpl-2015/gnatgpl/gnat-gpl-2015-x86_64-darwin-bin/lib/gcc/x86_64-apple-darwin13.4.0/4.9.3/adalib/libgnat.a
